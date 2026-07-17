@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1200" viewBox="0 0 1000 1200">
-  <rect width="1000" height="1200" fill="#f7f4ef"/>
-  <circle cx="500" cy="420" r="180" fill="none" stroke="#222" stroke-width="8"/>
-  <path d="M320 700 C380 620, 620 620, 680 700 S780 900, 500 980 S220 780, 320 700 Z" fill="none" stroke="#222" stroke-width="8"/>
-  <text x="60" y="1120" font-family="Georgia, serif" font-size="32" fill="#444" opacity="0.7">Replace with your illustration</text>
-</svg>
